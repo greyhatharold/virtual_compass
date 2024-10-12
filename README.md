@@ -1,9 +1,5 @@
 # 🧭 Ye Olde Decision Analysis Toole
 
-<div align="center">
-  <img src="https://via.placeholder.com/150?text=Moral+Compass" alt="Moral Compass Logo">
-</div>
-
 ## 📜 Table of Contents
 
 - [Introduction](#-introduction)
